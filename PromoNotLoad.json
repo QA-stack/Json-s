@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx/1.5.8
+Date: Thu, 26 Sep 2019 07:14:49 GMT
+Content-Type: application/json
+Content-Length: 960
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+
+{"id":1,"validFrom":"2018-03-10T18:46:40.000Z","validUntil":"2020-03-10T18:46:40.000Z","productPage":[{"id":111,"title":"Чайник","image":"https://samovary.ru/img/goods/thumbs/0lga/2asaimg_1477_x.jpg","price":{"oldPrice":.22,"currentPrice":111.22,"discountValue":111.22,"discountPercent":50.5},"availability":100},{"id":111,"title":"Чайник Чайник Чайник Чайник Чайник","image":"","price":{"oldPrice":2222222222.22,"currentPrice":111.22,"discountValue":111.22,"discountPercent":50.5},"availability":100},{"id":111,"title":"Ч","image":"https://samovary.ru/img/goods/thumbs/0lga/2asaimg_1477_x.jpg","price":{"oldPrice":0,"currentPrice":111.22,"discountValue":111.22,"discountPercent":50.5},"availability":100},{"id":111,"title":"Чайник3","image":"https://samovary.ru/img/goods/thumbs/0lga/2asaimg_1477_x.jpg","price":{"oldPrice":222.22,"currentPrice":0,"discountValue":111.22,"discountPercent":50.5},"availability":100}]}
